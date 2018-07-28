@@ -1,0 +1,42 @@
+2018-07-27 16:48:42,079 - main_check.py[line:793] - INFO: 清除osinfo表无效监控数据
+2018-07-27 16:48:42,198 - main_check.py[line:799] - INFO: 清除os_filesystem表无效监控数据
+2018-07-27 16:48:42,247 - main_check.py[line:806] - INFO: 清除oracle_tbs表无效监控数据
+2018-07-27 16:48:42,308 - main_check.py[line:811] - INFO: 清除oracle_db表无效监控数据
+2018-07-27 16:48:42,319 - main_check.py[line:816] - INFO: 清除oracle_db_event表无效监控数据
+2018-07-27 16:48:42,368 - main_check.py[line:821] - INFO: 清除oracle_temp_tbs表无效监控数据
+2018-07-27 16:48:42,380 - main_check.py[line:826] - INFO: 清除oracle_undo_tbs表无效监控数据
+2018-07-27 16:48:42,390 - main_check.py[line:831] - INFO: 清除oracle_db_rate表无效监控数据
+2018-07-27 16:48:42,394 - main_check.py[line:836] - INFO: 清除mysql_db_rate表无效监控数据
+2018-07-27 16:48:42,400 - main_check.py[line:841] - INFO: 清除mysql_db_repl表无效监控数据
+2018-07-27 16:48:42,443 - main_check.py[line:859] - INFO: orcl 开始采集Linux主机信息
+2018-07-27 16:48:42,454 - main_check.py[line:859] - INFO: orcl_adg 开始采集Linux主机信息
+2018-07-27 16:48:42,470 - main_check.py[line:859] - INFO: mysql50 开始采集Linux主机信息
+2018-07-27 16:48:42,480 - main_check.py[line:859] - INFO: mysql51 开始采集Linux主机信息
+2018-07-27 16:48:42,532 - main_check.py[line:859] - INFO: mysql53 开始采集Linux主机信息
+2018-07-27 16:48:42,650 - main_check.py[line:859] - INFO: aliyun 开始采集Linux主机信息
+2018-07-27 16:48:42,706 - main_check.py[line:867] - INFO: orcl 开始采集oracle数据库信息
+2018-07-27 16:48:42,832 - main_check.py[line:867] - INFO: orcl_adg 开始采集oracle数据库信息
+2018-07-27 16:48:43,007 - main_check.py[line:867] - INFO: orcl_aliyun 开始采集oracle数据库信息
+2018-07-27 16:48:43,108 - main_check.py[line:875] - INFO: mysql50 开始采集mysql数据库信息
+2018-07-27 16:48:43,131 - main_check.py[line:29] - INFO: orcl：开始获取系统监控信息
+2018-07-27 16:48:43,131 - main_check.py[line:31] - INFO: orcl：初始化os_info表
+2018-07-27 16:48:43,226 - main_check.py[line:875] - INFO: mysql51 开始采集mysql数据库信息
+2018-07-27 16:48:43,253 - main_check.py[line:29] - INFO: orcl_adg：开始获取系统监控信息
+2018-07-27 16:48:43,253 - main_check.py[line:31] - INFO: orcl_adg：初始化os_info表
+2018-07-27 16:48:43,263 - main_check.py[line:29] - INFO: mysql50：开始获取系统监控信息
+2018-07-27 16:48:43,263 - main_check.py[line:31] - INFO: mysql50：初始化os_info表
+2018-07-27 16:48:43,342 - main_check.py[line:29] - INFO: mysql51：开始获取系统监控信息
+2018-07-27 16:48:43,342 - main_check.py[line:31] - INFO: mysql51：初始化os_info表
+2018-07-27 16:48:43,369 - main_check.py[line:875] - INFO: mysql53 开始采集mysql数据库信息
+2018-07-27 16:48:43,536 - main_check.py[line:29] - INFO: mysql53：开始获取系统监控信息
+2018-07-27 16:48:43,538 - main_check.py[line:31] - INFO: mysql53：初始化os_info表
+2018-07-27 16:48:43,609 - transport.py[line:1685] - INFO: Connected (version 2.0, client OpenSSH_5.3)
+2018-07-27 16:48:43,888 - main_check.py[line:151] - INFO: orcl等待2秒待linux主机信息采集完毕
+2018-07-27 16:48:43,898 - main_check.py[line:29] - INFO: aliyun：开始获取系统监控信息
+2018-07-27 16:48:43,898 - main_check.py[line:31] - INFO: aliyun：初始化os_info表
+2018-07-27 16:48:43,927 - main_check.py[line:151] - INFO: orcl_adg等待2秒待linux主机信息采集完毕
+2018-07-27 16:48:44,019 - main_check.py[line:547] - INFO: 等待2秒待Linux主机信息采集完毕
+2018-07-27 16:48:44,081 - main_check.py[line:151] - INFO: orcl_aliyun等待2秒待linux主机信息采集完毕
+2018-07-27 16:48:44,197 - transport.py[line:1685] - INFO: Connected (version 2.0, client OpenSSH_7.2p2)
+2018-07-27 16:48:44,207 - main_check.py[line:547] - INFO: 等待2秒待Linux主机信息采集完毕
+2018-07-27 16:48:44,246 - main_check.py[line:547] - INFO: 等待2秒待Linux主机信息采集完毕
